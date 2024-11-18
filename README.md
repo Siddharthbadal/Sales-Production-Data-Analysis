@@ -15,3 +15,10 @@ About the Database:
 
 	
 	
+![BikeSalesPercentage](https://github.com/user-attachments/assets/d0eaa5bd-25ab-45c6-80d3-c85e44df5e2e)
+
+![RetailCustomersPercentages](https://github.com/user-attachments/assets/c5e01af3-1e29-496a-b565-513d6282d94a)
+
+![SalesByAgeGroupForCountry](https://github.com/user-attachments/assets/a081d836-084a-4925-ab8d-094d52276950)
+
+![TotalDueByTop25CustInEachRegion](https://github.com/user-attachments/assets/047245fa-ca58-4dd6-b76f-d6e2c8202969)
