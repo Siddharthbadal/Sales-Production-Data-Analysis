@@ -1,17 +1,36 @@
-## Sales and production Firm Data Analysis
+## Database Development with Data Analysis For a Online Retail Store 
 
-Goal of the project is to answer various business questions about the all possible areas of the firm. These include sales, orders, customers, employes. Through multiple analysis we intend to understand different patterns in sales, orders, performance and products over a period of time. I have used excel to visualize insights found from the analysis. 
+## Objective
+	This is a part of  a freelancing project. Client had asked to develop a database with few tables. Also instructed to establish relationships among tables, apply multiple constraints wherever needed.  Client has given a set of 30+ questions to be answered as a part of data analysis process and share any insights wherever possible. 
+	
+	As a result a complete set of DDL and DML commands with ERD was provided to clients. 
+	
+	---
 
-Main points taken into consideration for analysis are; product performance, orders and returns, growth over a period of time, and category based analysis with age, gender, region, time period.  
+## Tools
 
-This dataset includes over 100+ queries answering almost all possible data points about a business. 
- 
+	-	SQL Server 
+	-	MsExcel 
 
-About the Database:
-	* Adventureworks2019 databse is consist of 6 Schemas and 71 tables.
-	* 20+ Views and stored procedures and triggers.
-	* 486 columns 
-	* 152 default constraints 
+	   ---
+	   
+## Process
+
+	-	Designed and created database schema, including tables and relationships.
+	-	Developed basic CRUD operations and implemented simple stored procedures.
+	-	Created ER diagrams to document the database design.
+	-	Analyzed and optimized slow-performing queries using execution plans and indexing strategies.
+	-	Implemented role-based access control to secure sensitive data.
+	-	Developed backup strategies, including full, differential, and transaction log backups.
+	-	Conducted data analysis to generate insights on sales patterns.
+
+---
+
+## Key Accomplishments:
+
+	-	Optimized simple queries, reducing execution time by up to 20%.
+	-	Presented findings in a detailed report, improving understanding of sales trends.
+
 
 	
 	
