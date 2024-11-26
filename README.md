@@ -1,10 +1,10 @@
-## Sales and production Firm Data Analysis
+## Company's Sales and Production Data Analysis
 
 ### Objective
-	Goal of the project is to answer various business questions about the all possible areas of the firm. 
-	These include sales, orders, customers, employees. Through multiple analysis we intend to understand different patterns in sales, orders, performance and products over a period of time. 
-	I have used excel to visualize insights found from the analysis.
- 
+
+Goal of the project is to answer various business questions about the all possible areas of the firm. 
+These include sales, orders, customers, employees. Through multiple analysis we intend to understand different patterns in sales, orders, performance and products over a period of time. 
+I have used excel to visualize insights found from the analysis.
 
 ---
 
@@ -12,35 +12,32 @@ Analysis contains multiple complete queries looking into multiple tables and ans
 
 ---
 
-
 ###	Points taken into consideration for analysis are; 
 
-	-	Product performance, 
-	-	Orders and returns, 
-	-	Growth over a period of time, 
-	-	Category based analysis with age, gender, region, time period.  
-	-	Employees tenure analysis
- 
+-	Product performance, 
+-	Orders and returns, 
+-	Growth over a period of time, 
+-	Category based analysis with age, gender, region, time period.  
+-	Employees tenure analysis
 	
-	---
- 
+---
+
 This dataset includes over 100+ queries answering almost all possible data points about a business. 
 
-	  ---
+---
 	  
 ### Tools
 	
-		-	SQLServer
-		-	MsExcel
+-SQLServer
+-MsExcel
  
 
 About the Database:
 
-	-	 Adventureworks2019 database is consist of 6 Schema and 71 tables.
-	-	 20+ Views and stored procedures and triggers.
-	-	 486 columns 
-	-	152 default constraints 
-
+-Adventureworks2019 database is consist of 6 Schema and 71 tables.
+-20+ Views and stored procedures and triggers.
+-486 columns 
+-152 default constraints 
 	
 	
 	
