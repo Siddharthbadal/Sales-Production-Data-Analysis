@@ -1,37 +1,47 @@
-## Database Development with Data Analysis For a Online Retail Store 
+## Sales and production Firm Data Analysis
 
-## Objective
-	This is a part of  a freelancing project. Client had asked to develop a database with few tables. Also instructed to establish relationships among tables, apply multiple constraints wherever needed.  Client has given a set of 30+ questions to be answered as a part of data analysis process and share any insights wherever possible. 
-	
-	As a result a complete set of DDL and DML commands with ERD was provided to clients. 
-	
-	---
-
-## Tools
-
-	-	SQL Server 
-	-	MsExcel 
-
-	   ---
-	   
-## Process
-
-	-	Designed and created database schema, including tables and relationships.
-	-	Developed basic CRUD operations and implemented simple stored procedures.
-	-	Created ER diagrams to document the database design.
-	-	Analyzed and optimized slow-performing queries using execution plans and indexing strategies.
-	-	Implemented role-based access control to secure sensitive data.
-	-	Developed backup strategies, including full, differential, and transaction log backups.
-	-	Conducted data analysis to generate insights on sales patterns.
+### Objective
+	Goal of the project is to answer various business questions about the all possible areas of the firm. 
+	These include sales, orders, customers, employees. Through multiple analysis we intend to understand different patterns in sales, orders, performance and products over a period of time. 
+	I have used excel to visualize insights found from the analysis.
+ 
 
 ---
 
-## Key Accomplishments:
+Analysis contains multiple complete queries looking into multiple tables and answering business questions with excel charts.
 
-	-	Optimized simple queries, reducing execution time by up to 20%.
-	-	Presented findings in a detailed report, improving understanding of sales trends.
+---
 
 
+###	Points taken into consideration for analysis are; 
+
+	-	Product performance, 
+	-	Orders and returns, 
+	-	Growth over a period of time, 
+	-	Category based analysis with age, gender, region, time period.  
+	-	Employees tenure analysis
+ 
+	
+	---
+ 
+This dataset includes over 100+ queries answering almost all possible data points about a business. 
+
+	  ---
+	  
+### Tools
+	
+		-	SQLServer
+		-	MsExcel
+ 
+
+About the Database:
+
+	-	 Adventureworks2019 database is consist of 6 Schema and 71 tables.
+	-	 20+ Views and stored procedures and triggers.
+	-	 486 columns 
+	-	152 default constraints 
+
+	
 	
 	
 ![BikeSalesPercentage](https://github.com/user-attachments/assets/d0eaa5bd-25ab-45c6-80d3-c85e44df5e2e)
