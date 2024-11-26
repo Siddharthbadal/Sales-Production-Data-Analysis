@@ -28,16 +28,16 @@ This dataset includes over 100+ queries answering almost all possible data point
 	  
 ### Tools
 	
--SQLServer
--MsExcel
+-	SQLServer
+-	MsExcel
  
 
 About the Database:
 
--Adventureworks2019 database is consist of 6 Schema and 71 tables.
--20+ Views and stored procedures and triggers.
--486 columns 
--152 default constraints 
+-	Adventureworks2019 database is consist of 6 Schema and 71 tables.
+-	20+ Views and stored procedures and triggers.
+-	486 columns 
+-	152 default constraints 
 	
 	
 	
